@@ -13,9 +13,8 @@ Antes de comenzar, asegúrese de tener instalado lo siguiente en su computadora:
     java -version
     javac -version
     ```
-    Ambos comandos deben mostrar una versión igual o superior a la `17`. Si no se reconocen, debe descargar e instalar el JDK (por ejemplo, desde [Adoptium Temurin](https://adoptium.net/)) y configurar las variables de entorno (`JAVA_HOME` y `Path`).
+    Ambos comandos deben mostrar una versión igual o superior a la `17`. Si no se reconocen, debe descargar e instalar el JDK y configurar las variables de entorno (`JAVA_HOME` y `Path`).
 *   **Editor de Texto o IDE:** Puede utilizar cualquier editor de código como [Visual Studio Code](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), o incluso un editor de texto plano con la terminal.
-*   **Git (Opcional):** Para el control de versiones del proyecto.
 
 ---
 
