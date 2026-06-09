@@ -1,6 +1,6 @@
 # EsportsManager 2026 - Proyecto de Referencia Académica
 
-Este proyecto ha sido desarrollado como material complementario de estudio para el curso **IF0001 - Introducción a la Computación** de la Universidad de Costa Rica. Su propósito es servir de guía técnica e ilustrar de manera integrada todos los conceptos abordados a lo largo del ciclo lectivo.
+Este proyecto ha sido desarrollado como material complementario de estudio para el curso **IF0001 - Desarrollo de Software I** de la Universidad de Costa Rica. Su propósito es servir de guía técnica e ilustrar de manera integrada todos los conceptos abordados a lo largo del ciclo lectivo.
 
 El proyecto está diseñado bajo una arquitectura limpia y modular utilizando el patrón de diseño **Modelo-Vista-Controlador (MVC)**, implementado de forma nativa en **Java 17+** y versionado bajo el sistema **Git**.
 
