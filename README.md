@@ -6,6 +6,17 @@ El proyecto está diseñado bajo una arquitectura limpia y modular utilizando el
 
 ---
 
+## Documentación y Guías del Proyecto
+
+Para apoyar el aprendizaje de los estudiantes, se han creado guías de estudio específicas y documentación detallada al mismo nivel de este archivo:
+
+*   **[Guía de Inicio Rápido (QUICKSTART.md)](QUICKSTART.md):** Instrucciones rápidas de instalación, comandos de terminal para compilar y ejecutar, y solución a problemas técnicos comunes.
+*   **[Guía Práctica - Cómo Hacer... (HOWTO.md)](HOWTO.md):** Tutorial paso a paso para extender y modificar el código (por ejemplo: agregar un nuevo tipo de jugador, añadir opciones al menú de consola o alterar el algoritmo de ordenamiento).
+*   **[Guía Conceptual y Temario de Estudio (STUDY_GUIDE.md)](STUDY_GUIDE.md):** Explicación teórica de los conceptos evaluados en el curso aplicados en el proyecto (arquitectura MVC, tipos de relaciones POO, manejo de memoria/referencias con copias defensivas, matrices e hilos).
+*   **[Documentación Técnica Javadoc (HTML)](documentation/index.html):** Documentación interactiva de todas las clases, atributos, métodos y firmas de código del simulador.
+
+---
+
 ## Temas del Curso Cubiertos en el Código
 
 Para facilitar su navegación y estudio, cada archivo contiene bloques extensos de comentarios en español explicando detalladamente la teoría aplicada, la justificación de la sintaxis exigida por Java y los errores típicos a evitar (*gotchas*). Los temas demostrados son:
