@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cr.ac.ucr.if0001"},{"l":"cr.ac.ucr.if0001.controller"},{"l":"cr.ac.ucr.if0001.model"},{"l":"cr.ac.ucr.if0001.view"}];updateSearchResults();
