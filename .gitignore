@@ -1,0 +1,20 @@
+# Binarios de Java compilados
+*.class
+
+# Carpetas de compilación
+bin/
+out/
+build/
+
+# Archivos de configuración de IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.metadata/
+
+# Bitácoras de ejecución locales y temporales
+*.log
+# Nota: campeones.txt NO se ignora ya que es el archivo persistente oficial de base de datos plana
